@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  
+}
+
+body {
+  background-color: rgb(248, 215, 251);
+}
+
+.App ol {
+  padding-left: 10px; /* Remove default padding */
+}
+
+.App ol li {
+  list-style-position: inside; /* Place the bullet inside the li */
+}
